@@ -30,13 +30,6 @@ The objective was to estimate key signal parameters, perform synchronization, an
 
 ---
 
-## 📂 Project Structure
-- `gnu_assignment.grc` → GNU Radio Companion flowgraph.  
-- `gnu_assignment.pptx` → Presentation report summarizing methodology and results.  
-- `README.md` → Project documentation (this file).  
-
----
-
 ## 🚀 Results
 - Successfully recovered and demodulated an unknown IQ signal.  
 - Verified **8-QAM modulation scheme** with accurate symbol reconstruction.  
